@@ -1,0 +1,8 @@
+<resources>
+    <string name="StudentDaily_CI601">StudentDaily_CI601</string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="weekly">Weekly</string>
+
+    <string name="my_map_api_key">AIzaSyDprcweLfcrRlx1oJYDCD-PRJclEC8MqaQ</string>
+</resources>
